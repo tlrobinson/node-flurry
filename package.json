@@ -1,0 +1,24 @@
+{
+  "name": "flurry",
+  "version": "0.1.0",
+  "description": "Flurry API client for Node.js and Q",
+  "main": "flurry.js",
+  "dependencies": {
+    "q": "~0.8.9",
+    "q-http": "~0.1.14",
+    "jack2": "~0.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tlrobinson/node-flurry.git"
+  },
+  "keywords": [
+    "flurry",
+    "q"
+  ],
+  "author": "Tom Robinson",
+  "license": "BSD"
+}
